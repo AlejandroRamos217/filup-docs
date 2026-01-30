@@ -1,5 +1,5 @@
 import { useState, useEffect, forwardRef, useImperativeHandle } from "react";
-import "./timeline.css";
+import "./Timeline.css";
 import TimelineActivity from "./TimelineActivity";
 import Modal from "../common/Modal";
 import TimelineForm from "./TimelineForm";
